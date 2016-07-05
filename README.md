@@ -20,8 +20,8 @@ Assuming that you have already got ```GOPATH``` setup (see
 https://golang.org/doc/code.html for details).  Do the following:
 
 ```bash
-$ go get github.com/hashicorp/terraform
-$ go get github.com/dallinb/terraform-provider-dummy
+$ go get -u github.com/hashicorp/terraform
+$ go get -u github.com/dallinb/terraform-provider-dummy
 ```
 
 Now get arount a problem with a new Terraform API version introduced
